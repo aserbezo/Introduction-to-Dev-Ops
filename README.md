@@ -1,4 +1,4 @@
-# introToDev-Ops
+# Applicaiton Deployment 
 
 1. Application Deployment - practise
 we have to deploy a two-tier application with web-based (PHP) front-end and MariaDB/MySQL used for database 
